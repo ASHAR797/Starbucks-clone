@@ -107,7 +107,14 @@
         width: 100%;
         display: contents;
     }
-
+    .sec-7-text p {
+        width: 71%;
+    }
+    .sec-7-text {
+        height: 45.3em;
+        text-align: center;
+    }
+    
     .footer-main-list {
         flex-direction: column;
     }
